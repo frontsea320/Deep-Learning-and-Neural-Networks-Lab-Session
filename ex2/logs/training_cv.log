@@ -1,0 +1,61 @@
+2025-03-21 16:08:24,353 - root - INFO - Fold 1/5
+2025-03-21 16:08:30,925 - root - INFO - Epoch 1: Train Loss: 1.6987, Train Accuracy: 0.7905
+2025-03-21 16:08:37,082 - root - INFO - Epoch 2: Train Loss: 1.5156, Train Accuracy: 0.9537
+2025-03-21 16:08:43,303 - root - INFO - Epoch 3: Train Loss: 1.4976, Train Accuracy: 0.9674
+2025-03-21 16:08:49,476 - root - INFO - Epoch 4: Train Loss: 1.4904, Train Accuracy: 0.9737
+2025-03-21 16:08:55,665 - root - INFO - Epoch 5: Train Loss: 1.4860, Train Accuracy: 0.9780
+2025-03-21 16:09:01,877 - root - INFO - Epoch 6: Train Loss: 1.4827, Train Accuracy: 0.9808
+2025-03-21 16:09:08,175 - root - INFO - Epoch 7: Train Loss: 1.4798, Train Accuracy: 0.9832
+2025-03-21 16:09:14,442 - root - INFO - Epoch 8: Train Loss: 1.4779, Train Accuracy: 0.9850
+2025-03-21 16:09:20,674 - root - INFO - Epoch 9: Train Loss: 1.4755, Train Accuracy: 0.9872
+2025-03-21 16:09:26,844 - root - INFO - Epoch 10: Train Loss: 1.4746, Train Accuracy: 0.9881
+2025-03-21 16:09:28,211 - root - INFO - Fold 1 - Validation Loss: 1.4764, Validation Accuracy: 0.9858
+2025-03-21 16:09:28,211 - root - INFO - Fold 2/5
+2025-03-21 16:09:34,447 - root - INFO - Epoch 1: Train Loss: 1.6823, Train Accuracy: 0.8105
+2025-03-21 16:09:40,616 - root - INFO - Epoch 2: Train Loss: 1.5132, Train Accuracy: 0.9551
+2025-03-21 16:09:46,781 - root - INFO - Epoch 3: Train Loss: 1.4965, Train Accuracy: 0.9689
+2025-03-21 16:09:52,926 - root - INFO - Epoch 4: Train Loss: 1.4891, Train Accuracy: 0.9754
+2025-03-21 16:09:59,041 - root - INFO - Epoch 5: Train Loss: 1.4849, Train Accuracy: 0.9790
+2025-03-21 16:10:05,262 - root - INFO - Epoch 6: Train Loss: 1.4815, Train Accuracy: 0.9818
+2025-03-21 16:10:11,373 - root - INFO - Epoch 7: Train Loss: 1.4791, Train Accuracy: 0.9842
+2025-03-21 16:10:17,482 - root - INFO - Epoch 8: Train Loss: 1.4769, Train Accuracy: 0.9861
+2025-03-21 16:10:23,671 - root - INFO - Epoch 9: Train Loss: 1.4751, Train Accuracy: 0.9879
+2025-03-21 16:10:29,736 - root - INFO - Epoch 10: Train Loss: 1.4740, Train Accuracy: 0.9888
+2025-03-21 16:10:31,101 - root - INFO - Fold 2 - Validation Loss: 1.4754, Validation Accuracy: 0.9870
+2025-03-21 16:10:31,102 - root - INFO - Fold 3/5
+2025-03-21 16:10:37,186 - root - INFO - Epoch 1: Train Loss: 1.6508, Train Accuracy: 0.8413
+2025-03-21 16:10:43,365 - root - INFO - Epoch 2: Train Loss: 1.5088, Train Accuracy: 0.9587
+2025-03-21 16:10:49,537 - root - INFO - Epoch 3: Train Loss: 1.4944, Train Accuracy: 0.9706
+2025-03-21 16:10:55,734 - root - INFO - Epoch 4: Train Loss: 1.4874, Train Accuracy: 0.9768
+2025-03-21 16:11:01,957 - root - INFO - Epoch 5: Train Loss: 1.4830, Train Accuracy: 0.9804
+2025-03-21 16:11:08,165 - root - INFO - Epoch 6: Train Loss: 1.4803, Train Accuracy: 0.9832
+2025-03-21 16:11:14,441 - root - INFO - Epoch 7: Train Loss: 1.4777, Train Accuracy: 0.9853
+2025-03-21 16:11:20,936 - root - INFO - Epoch 8: Train Loss: 1.4759, Train Accuracy: 0.9871
+2025-03-21 16:11:27,254 - root - INFO - Epoch 9: Train Loss: 1.4746, Train Accuracy: 0.9882
+2025-03-21 16:11:33,501 - root - INFO - Epoch 10: Train Loss: 1.4733, Train Accuracy: 0.9894
+2025-03-21 16:11:34,894 - root - INFO - Fold 3 - Validation Loss: 1.4778, Validation Accuracy: 0.9846
+2025-03-21 16:11:34,896 - root - INFO - Fold 4/5
+2025-03-21 16:11:41,245 - root - INFO - Epoch 1: Train Loss: 1.6939, Train Accuracy: 0.7915
+2025-03-21 16:11:47,477 - root - INFO - Epoch 2: Train Loss: 1.5157, Train Accuracy: 0.9532
+2025-03-21 16:11:53,706 - root - INFO - Epoch 3: Train Loss: 1.4972, Train Accuracy: 0.9681
+2025-03-21 16:11:59,984 - root - INFO - Epoch 4: Train Loss: 1.4894, Train Accuracy: 0.9748
+2025-03-21 16:12:06,233 - root - INFO - Epoch 5: Train Loss: 1.4849, Train Accuracy: 0.9792
+2025-03-21 16:12:12,482 - root - INFO - Epoch 6: Train Loss: 1.4815, Train Accuracy: 0.9818
+2025-03-21 16:12:18,747 - root - INFO - Epoch 7: Train Loss: 1.4791, Train Accuracy: 0.9840
+2025-03-21 16:12:25,042 - root - INFO - Epoch 8: Train Loss: 1.4763, Train Accuracy: 0.9869
+2025-03-21 16:12:31,216 - root - INFO - Epoch 9: Train Loss: 1.4749, Train Accuracy: 0.9881
+2025-03-21 16:12:37,404 - root - INFO - Epoch 10: Train Loss: 1.4739, Train Accuracy: 0.9887
+2025-03-21 16:12:38,768 - root - INFO - Fold 4 - Validation Loss: 1.4755, Validation Accuracy: 0.9870
+2025-03-21 16:12:38,769 - root - INFO - Fold 5/5
+2025-03-21 16:12:44,889 - root - INFO - Epoch 1: Train Loss: 1.6745, Train Accuracy: 0.8150
+2025-03-21 16:12:50,974 - root - INFO - Epoch 2: Train Loss: 1.5110, Train Accuracy: 0.9572
+2025-03-21 16:12:57,134 - root - INFO - Epoch 3: Train Loss: 1.4950, Train Accuracy: 0.9703
+2025-03-21 16:13:03,260 - root - INFO - Epoch 4: Train Loss: 1.4874, Train Accuracy: 0.9772
+2025-03-21 16:13:09,374 - root - INFO - Epoch 5: Train Loss: 1.4828, Train Accuracy: 0.9811
+2025-03-21 16:13:15,511 - root - INFO - Epoch 6: Train Loss: 1.4797, Train Accuracy: 0.9836
+2025-03-21 16:13:21,605 - root - INFO - Epoch 7: Train Loss: 1.4781, Train Accuracy: 0.9849
+2025-03-21 16:13:27,717 - root - INFO - Epoch 8: Train Loss: 1.4756, Train Accuracy: 0.9871
+2025-03-21 16:13:33,862 - root - INFO - Epoch 9: Train Loss: 1.4741, Train Accuracy: 0.9886
+2025-03-21 16:13:39,948 - root - INFO - Epoch 10: Train Loss: 1.4727, Train Accuracy: 0.9902
+2025-03-21 16:13:41,311 - root - INFO - Fold 5 - Validation Loss: 1.4767, Validation Accuracy: 0.9858
+2025-03-21 16:13:41,428 - root - INFO - Cross-validation results saved at logs/img/cv_accuracy.png

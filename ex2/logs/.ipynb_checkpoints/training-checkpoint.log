@@ -1,0 +1,41 @@
+2025-03-21 15:15:13,181 - root - INFO - Model initialized.
+2025-03-21 15:15:22,458 - root - INFO - Epoch 1: Train Loss: 1.6305, Train Acc: 0.8565, Test Loss: 1.5114, Test Acc: 0.9563
+2025-03-21 15:15:22,478 - root - INFO - New best model saved with Test Accuracy: 0.9563
+2025-03-21 15:15:31,578 - root - INFO - Epoch 2: Train Loss: 1.5054, Train Acc: 0.9615, Test Loss: 1.4897, Test Acc: 0.9760
+2025-03-21 15:15:31,594 - root - INFO - New best model saved with Test Accuracy: 0.9760
+2025-03-21 15:15:40,525 - root - INFO - Epoch 3: Train Loss: 1.4919, Train Acc: 0.9728, Test Loss: 1.4873, Test Acc: 0.9769
+2025-03-21 15:15:40,542 - root - INFO - New best model saved with Test Accuracy: 0.9769
+2025-03-21 15:15:49,385 - root - INFO - Epoch 4: Train Loss: 1.4853, Train Acc: 0.9786, Test Loss: 1.4798, Test Acc: 0.9835
+2025-03-21 15:15:49,401 - root - INFO - New best model saved with Test Accuracy: 0.9835
+2025-03-21 15:15:58,417 - root - INFO - Epoch 5: Train Loss: 1.4818, Train Acc: 0.9812, Test Loss: 1.4770, Test Acc: 0.9854
+2025-03-21 15:15:58,432 - root - INFO - New best model saved with Test Accuracy: 0.9854
+2025-03-21 15:16:07,258 - root - INFO - Epoch 6: Train Loss: 1.4788, Train Acc: 0.9840, Test Loss: 1.4758, Test Acc: 0.9870
+2025-03-21 15:16:07,272 - root - INFO - New best model saved with Test Accuracy: 0.9870
+2025-03-21 15:16:16,465 - root - INFO - Epoch 7: Train Loss: 1.4767, Train Acc: 0.9861, Test Loss: 1.4750, Test Acc: 0.9869
+2025-03-21 15:16:25,288 - root - INFO - Epoch 8: Train Loss: 1.4750, Train Acc: 0.9878, Test Loss: 1.4728, Test Acc: 0.9892
+2025-03-21 15:16:25,303 - root - INFO - New best model saved with Test Accuracy: 0.9892
+2025-03-21 15:16:34,171 - root - INFO - Epoch 9: Train Loss: 1.4732, Train Acc: 0.9893, Test Loss: 1.4722, Test Acc: 0.9896
+2025-03-21 15:16:34,186 - root - INFO - New best model saved with Test Accuracy: 0.9896
+2025-03-21 15:16:42,996 - root - INFO - Epoch 10: Train Loss: 1.4722, Train Acc: 0.9901, Test Loss: 1.4706, Test Acc: 0.9921
+2025-03-21 15:16:43,014 - root - INFO - New best model saved with Test Accuracy: 0.9921
+2025-03-21 15:16:43,268 - root - INFO - Training completed. Model and plots saved.
+2025-03-21 15:17:27,514 - root - INFO - Model initialized.
+2025-03-21 15:17:36,544 - root - INFO - Epoch 1: Train Loss: 1.7012, Train Acc: 0.7773, Test Loss: 1.5996, Test Acc: 0.8657
+2025-03-21 15:17:36,564 - root - INFO - New best model saved with Test Accuracy: 0.8657
+2025-03-21 15:17:45,364 - root - INFO - Epoch 2: Train Loss: 1.5423, Train Acc: 0.9245, Test Loss: 1.4938, Test Acc: 0.9721
+2025-03-21 15:17:45,381 - root - INFO - New best model saved with Test Accuracy: 0.9721
+2025-03-21 15:17:54,150 - root - INFO - Epoch 3: Train Loss: 1.4924, Train Acc: 0.9726, Test Loss: 1.4837, Test Acc: 0.9801
+2025-03-21 15:17:54,168 - root - INFO - New best model saved with Test Accuracy: 0.9801
+2025-03-21 15:18:02,867 - root - INFO - Epoch 4: Train Loss: 1.4852, Train Acc: 0.9784, Test Loss: 1.4812, Test Acc: 0.9823
+2025-03-21 15:18:02,884 - root - INFO - New best model saved with Test Accuracy: 0.9823
+2025-03-21 15:18:11,674 - root - INFO - Epoch 5: Train Loss: 1.4814, Train Acc: 0.9818, Test Loss: 1.4792, Test Acc: 0.9839
+2025-03-21 15:18:11,692 - root - INFO - New best model saved with Test Accuracy: 0.9839
+2025-03-21 15:18:20,578 - root - INFO - Epoch 6: Train Loss: 1.4791, Train Acc: 0.9836, Test Loss: 1.4756, Test Acc: 0.9865
+2025-03-21 15:18:20,594 - root - INFO - New best model saved with Test Accuracy: 0.9865
+2025-03-21 15:18:29,225 - root - INFO - Epoch 7: Train Loss: 1.4763, Train Acc: 0.9867, Test Loss: 1.4739, Test Acc: 0.9887
+2025-03-21 15:18:29,242 - root - INFO - New best model saved with Test Accuracy: 0.9887
+2025-03-21 15:18:37,971 - root - INFO - Epoch 8: Train Loss: 1.4744, Train Acc: 0.9879, Test Loss: 1.4757, Test Acc: 0.9867
+2025-03-21 15:18:46,686 - root - INFO - Epoch 9: Train Loss: 1.4734, Train Acc: 0.9890, Test Loss: 1.4731, Test Acc: 0.9887
+2025-03-21 15:18:55,401 - root - INFO - Epoch 10: Train Loss: 1.4722, Train Acc: 0.9901, Test Loss: 1.4730, Test Acc: 0.9893
+2025-03-21 15:18:55,418 - root - INFO - New best model saved with Test Accuracy: 0.9893
+2025-03-21 15:18:55,600 - root - INFO - Training completed. Model and plots saved.

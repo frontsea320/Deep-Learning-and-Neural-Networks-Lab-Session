@@ -1,0 +1,23 @@
+2025-03-21 15:20:58,285 - root - ERROR - Error loading model: [Errno 2] No such file or directory: 'homework/ex2/weights/best_mnist_cnn.pth'
+2025-03-21 15:21:43,029 - root - ERROR - Error loading model: [Errno 2] No such file or directory: 'weights/best_minist_cnn.pth'
+2025-03-21 15:22:26,907 - root - INFO - Model loaded successfully from weights/best_mnist_cnn.pth!
+2025-03-21 15:22:26,908 - root - INFO - Starting evaluation...
+2025-03-21 15:22:28,166 - root - INFO - Test Loss: 1.4730, Test Accuracy: 0.9893
+2025-03-21 15:22:28,503 - root - INFO - Predictions visualization saved to logs/img/predictions.png
+2025-03-21 15:23:54,094 - root - INFO - Model loaded successfully from weights/best_mnist_cnn.pth!
+2025-03-21 15:23:54,095 - root - INFO - Starting evaluation...
+2025-03-21 15:23:55,330 - root - INFO - Test Loss: 1.4730, Test Accuracy: 0.9893
+2025-03-21 15:23:55,530 - root - INFO - Predictions visualization saved to logs/img/predictions.png
+2025-03-21 15:25:56,064 - root - INFO - Model loaded successfully from weights/best_mnist_cnn.pth!
+2025-03-21 15:25:56,064 - root - INFO - Starting evaluation...
+2025-03-21 15:25:57,293 - root - INFO - Test Loss: 1.4730, Test Accuracy: 0.9893
+2025-03-21 15:25:57,497 - root - INFO - Predictions visualization saved to logs/img/predictions.png
+2025-03-21 15:28:26,354 - root - INFO - Model loaded successfully from weights/best_mnist_cnn.pth!
+2025-03-21 15:28:26,354 - root - INFO - Starting evaluation...
+2025-03-21 15:28:27,577 - root - INFO - Test Loss: 1.4730, Test Accuracy: 0.9893
+2025-03-21 15:28:27,919 - root - INFO - Predictions visualization saved to logs/img/predictions.png
+2025-03-21 15:38:35,456 - root - ERROR - Error loading model: [Errno 2] No such file or directory: 'weight/best_mnist_cnn.pth'
+2025-03-21 15:39:02,944 - root - INFO - Model loaded successfully from weights/best_mnist_cnn.pth!
+2025-03-21 15:39:02,945 - root - INFO - Starting evaluation...
+2025-03-21 15:39:04,201 - root - INFO - Test Loss: 1.4692, Test Accuracy: 0.9927
+2025-03-21 15:39:04,537 - root - INFO - Predictions visualization saved to logs/img/predictions.png

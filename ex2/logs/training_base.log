@@ -1,0 +1,43 @@
+2025-03-23 20:55:17,250 - root - INFO - Model initialized.
+2025-03-23 20:55:28,392 - root - INFO - Epoch 1: Train Loss: 1.5649, Train Acc: 0.9102, Test Loss: 1.4920, Test Acc: 0.9722
+2025-03-23 20:55:28,411 - root - INFO - New best model saved with Test Accuracy: 0.9722
+2025-03-23 20:55:39,231 - root - INFO - Epoch 2: Train Loss: 1.4919, Train Acc: 0.9722, Test Loss: 1.4838, Test Acc: 0.9797
+2025-03-23 20:55:39,247 - root - INFO - New best model saved with Test Accuracy: 0.9797
+2025-03-23 20:55:50,269 - root - INFO - Epoch 3: Train Loss: 1.4831, Train Acc: 0.9800, Test Loss: 1.4771, Test Acc: 0.9848
+2025-03-23 20:55:50,286 - root - INFO - New best model saved with Test Accuracy: 0.9848
+2025-03-23 20:56:01,154 - root - INFO - Epoch 4: Train Loss: 1.4788, Train Acc: 0.9838, Test Loss: 1.4729, Test Acc: 0.9892
+2025-03-23 20:56:01,170 - root - INFO - New best model saved with Test Accuracy: 0.9892
+2025-03-23 20:56:12,034 - root - INFO - Epoch 5: Train Loss: 1.4756, Train Acc: 0.9867, Test Loss: 1.4742, Test Acc: 0.9871
+2025-03-23 20:56:22,839 - root - INFO - Epoch 6: Train Loss: 1.4738, Train Acc: 0.9885, Test Loss: 1.4711, Test Acc: 0.9906
+2025-03-23 20:56:22,856 - root - INFO - New best model saved with Test Accuracy: 0.9906
+2025-03-23 20:56:33,699 - root - INFO - Epoch 7: Train Loss: 1.4723, Train Acc: 0.9896, Test Loss: 1.4706, Test Acc: 0.9910
+2025-03-23 20:56:33,715 - root - INFO - New best model saved with Test Accuracy: 0.9910
+2025-03-23 20:56:44,556 - root - INFO - Epoch 8: Train Loss: 1.4710, Train Acc: 0.9909, Test Loss: 1.4710, Test Acc: 0.9904
+2025-03-23 20:56:55,448 - root - INFO - Epoch 9: Train Loss: 1.4702, Train Acc: 0.9914, Test Loss: 1.4716, Test Acc: 0.9899
+2025-03-23 20:57:06,406 - root - INFO - Epoch 10: Train Loss: 1.4692, Train Acc: 0.9925, Test Loss: 1.4709, Test Acc: 0.9907
+2025-03-23 20:57:17,411 - root - INFO - Epoch 11: Train Loss: 1.4685, Train Acc: 0.9931, Test Loss: 1.4691, Test Acc: 0.9927
+2025-03-23 20:57:17,427 - root - INFO - New best model saved with Test Accuracy: 0.9927
+2025-03-23 20:57:28,373 - root - INFO - Epoch 12: Train Loss: 1.4678, Train Acc: 0.9938, Test Loss: 1.4705, Test Acc: 0.9910
+2025-03-23 20:57:39,155 - root - INFO - Epoch 13: Train Loss: 1.4674, Train Acc: 0.9943, Test Loss: 1.4697, Test Acc: 0.9919
+2025-03-23 20:57:50,065 - root - INFO - Epoch 14: Train Loss: 1.4671, Train Acc: 0.9945, Test Loss: 1.4689, Test Acc: 0.9928
+2025-03-23 20:57:50,083 - root - INFO - New best model saved with Test Accuracy: 0.9928
+2025-03-23 20:58:01,087 - root - INFO - Epoch 15: Train Loss: 1.4665, Train Acc: 0.9949, Test Loss: 1.4694, Test Acc: 0.9917
+2025-03-23 20:58:11,961 - root - INFO - Epoch 16: Train Loss: 1.4661, Train Acc: 0.9953, Test Loss: 1.4682, Test Acc: 0.9931
+2025-03-23 20:58:11,978 - root - INFO - New best model saved with Test Accuracy: 0.9931
+2025-03-23 20:58:22,851 - root - INFO - Epoch 17: Train Loss: 1.4656, Train Acc: 0.9958, Test Loss: 1.4687, Test Acc: 0.9923
+2025-03-23 20:58:33,816 - root - INFO - Epoch 18: Train Loss: 1.4652, Train Acc: 0.9963, Test Loss: 1.4689, Test Acc: 0.9923
+2025-03-23 20:58:44,737 - root - INFO - Epoch 19: Train Loss: 1.4651, Train Acc: 0.9964, Test Loss: 1.4689, Test Acc: 0.9925
+2025-03-23 20:58:55,484 - root - INFO - Epoch 20: Train Loss: 1.4651, Train Acc: 0.9962, Test Loss: 1.4690, Test Acc: 0.9927
+2025-03-23 20:59:06,361 - root - INFO - Epoch 21: Train Loss: 1.4645, Train Acc: 0.9970, Test Loss: 1.4680, Test Acc: 0.9933
+2025-03-23 20:59:06,377 - root - INFO - New best model saved with Test Accuracy: 0.9933
+2025-03-23 20:59:16,999 - root - INFO - Epoch 22: Train Loss: 1.4644, Train Acc: 0.9971, Test Loss: 1.4679, Test Acc: 0.9935
+2025-03-23 20:59:17,017 - root - INFO - New best model saved with Test Accuracy: 0.9935
+2025-03-23 20:59:27,681 - root - INFO - Epoch 23: Train Loss: 1.4641, Train Acc: 0.9973, Test Loss: 1.4682, Test Acc: 0.9933
+2025-03-23 20:59:38,322 - root - INFO - Epoch 24: Train Loss: 1.4641, Train Acc: 0.9974, Test Loss: 1.4709, Test Acc: 0.9898
+2025-03-23 20:59:49,017 - root - INFO - Epoch 25: Train Loss: 1.4640, Train Acc: 0.9973, Test Loss: 1.4681, Test Acc: 0.9931
+2025-03-23 20:59:59,742 - root - INFO - Epoch 26: Train Loss: 1.4637, Train Acc: 0.9976, Test Loss: 1.4685, Test Acc: 0.9927
+2025-03-23 21:00:10,510 - root - INFO - Epoch 27: Train Loss: 1.4638, Train Acc: 0.9976, Test Loss: 1.4686, Test Acc: 0.9928
+2025-03-23 21:00:21,324 - root - INFO - Epoch 28: Train Loss: 1.4638, Train Acc: 0.9975, Test Loss: 1.4682, Test Acc: 0.9927
+2025-03-23 21:00:32,037 - root - INFO - Epoch 29: Train Loss: 1.4635, Train Acc: 0.9977, Test Loss: 1.4682, Test Acc: 0.9930
+2025-03-23 21:00:42,836 - root - INFO - Epoch 30: Train Loss: 1.4634, Train Acc: 0.9979, Test Loss: 1.4681, Test Acc: 0.9929
+2025-03-23 21:00:43,094 - root - INFO - Training completed. Model and plots saved.
