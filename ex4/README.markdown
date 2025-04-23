@@ -176,6 +176,6 @@ gene-expression-prediction/
 
 ## 联系方式
 
-如有问题或建议，请提交Issue或联系[your-email@example.com](mailto:your-email@example.com)。
+如有问题或建议，请提交Issue。
 
 🎉 **每个渺小的理由 都困住自由**
